@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  margin: auto;
+}
+
+.App input {
+  width: auto;
+  margin: auto;
+}
+
+.App button {
+  margin: 10px;
+}
+
+.nama {
+  background-color: orangered;
+  color: white;
+  padding: 15px;
+  margin: auto;
+}
